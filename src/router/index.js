@@ -1,15 +1,15 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import drag from '../components/module/drag'
+import subtitles from '../components/module/subtitles'
 
 Vue.use(Router)
 const router = new Router({
   mode: 'history',
   routes: [
     {
-      path: '/drag',
-      name: 'drag',
-      component: drag
+      path: '/subtitles',
+      name: 'subtitles',
+      component: subtitles
     }
   ]
 })
