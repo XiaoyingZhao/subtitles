@@ -1,4 +1,5 @@
 # subtitles
+![image](https://raw.githubusercontent.com/XiaoyingZhao/subtitles/master/preview.png)
 
 ## Project setup
 ```
@@ -25,5 +26,3 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
