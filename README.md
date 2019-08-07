@@ -1,4 +1,5 @@
 # subtitles
+访问地址：http://localhost:8081/subtitles
 ![image](https://raw.githubusercontent.com/XiaoyingZhao/subtitles/master/preview.png)
 
 ## Project setup
